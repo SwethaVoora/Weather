@@ -7,7 +7,7 @@ The project consists of the following fiels:
 - **app.py** : Main Flask application file
 - **\_\_init__'.py** : Contains the create app and create database function definitions
 - **views.py** : This file defines the routes and handles the weather data retrieval, city addition and deletion.
-- **modesl.py** : Contains the City Model definition used for interacting with the database.
+- **models.py** : Contains the City Model definition used for interacting with the database.
 - **templates/weather.html** : This file is responsible for displaying the weather data and handling user interactions.
 
 ## Installation
